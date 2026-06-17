@@ -433,6 +433,10 @@ python:
 # Rust specific settings.
 rust:
 # None available at the moment.
+
+# Dart specific settings.
+dart:
+# None available at the moment.
 ```
 
 ## Motivation
@@ -461,4 +465,6 @@ the tool ensures that this architectural "harmony" remains undisturbed.
 - Python
 - JavaScript/TypeScript (es imports/exports)
 - Rust (beta)
+- Go
+- Dart (beta)
 
