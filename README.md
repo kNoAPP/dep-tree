@@ -52,6 +52,7 @@
     <img height="40px" src="docs/python-logo.png">
     <img height="40px" src="docs/rust-logo.png">
     <img height="36px" src="docs/go-logo.png">
+    <img height="40px" src="docs/dart-logo.svg">
 </div>
 
 ## Contributing additional languages
